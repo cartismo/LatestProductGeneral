@@ -1,0 +1,12 @@
+{
+    "name": "LatestProductGeneral",
+    "alias": "latestproductgeneral",
+    "description": "Latest and new arrivals products display",
+    "keywords": ["latest", "new", "arrivals", "products"],
+    "priority": 0,
+    "providers": [
+        "Modules\\LatestProductGeneral\\Providers\\LatestProductGeneralServiceProvider"
+    ],
+    "files": [],
+    "type": "general"
+}
